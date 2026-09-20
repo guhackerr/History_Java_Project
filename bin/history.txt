@@ -1,0 +1,25 @@
+Relatório de Missão: Operação Fim de Semana
+...
+O terminal inicializa com sucesso, qual seu nome? [s]
+O alvo da noite é invadir a mainframe da megacorporação, qual era ela mesmo? [s]
+
+Estratégia inicial:
+
+Você planeja derrubar quantos servidores principais mesmo? eu esqueci... [i]
+
+O volume estimado de dados sigilosos a ser extraído é de quantos gigabytes? [d]
+
+Durante a invasão, o sistema de segurança exibe um desafio no painel? [s]
+
+O alarme dispara imediatamente! O sistema avisa que restam tentativas de acesso antes do bloqueio total. [i]
+Felizmente, a carga da bateria do seu deck portátil ainda estável. [d]
+Para analisar as portas abertas rapidamente, você aciona a ferramenta de rede escolhida. [s]
+
+Cálculos de Missão:
+
+O tempo total estimado de operação foi calculado com base na quantidade de alvos.
+
+A taxa de transferência otimizada foi dimensionada com o volume planejado.
+
+Com tudo pronto após a invasão, você apaga os rastros, foge para o esconderijo e comemora o sucesso. [s]
+"[s]"
